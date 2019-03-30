@@ -1,0 +1,8 @@
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\bin\Release\ToggleSlider.dll
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\bin\Release\ToggleSlider.pdb
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.csprojResolveAssemblyReference.cache
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.Form1.resources
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.ToggleSliderComponent.resources
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.csproj.GenerateResource.Cache
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.dll
+F:\vs projects\c#usercontrol\toggle-switch-master\ToggleSlider\obj\Release\ToggleSlider.pdb
